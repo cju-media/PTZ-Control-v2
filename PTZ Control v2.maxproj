@@ -2,7 +2,7 @@
 	"name" : "PTZ Control v2",
 	"version" : 1,
 	"creationdate" : 3820259461,
-	"modificationdate" : 3820696823,
+	"modificationdate" : 3822684698,
 	"viewrect" : [ 4615.0, 1687.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -32,15 +32,24 @@
 		}
 ,
 		"data" : 		{
+			"menuControl.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1
+			}
+,
 			"control1.txt" : 			{
 				"kind" : "textfile",
 				"local" : 1
 			}
 ,
-			"menuControl.txt" : 			{
+			"camDirection.txt" : 			{
 				"kind" : "textfile",
 				"local" : 1
 			}
+
+		}
+,
+		"externals" : 		{
 
 		}
 
