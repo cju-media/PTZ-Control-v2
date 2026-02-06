@@ -1,0 +1,18 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "atem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atem-connection": "^3.5.0",
+    "express": "^5.2.1",
+    "net": "^1.0.2",
+    "ping": "^0.4.4"
+  },
+  "description": ""
+}

@@ -21,7 +21,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 294.0, 294.0, 50.0, 35.0 ],
-					"text" : "hidden 1"
+					"text" : "hidden 0"
 				}
 
 			}
@@ -343,7 +343,7 @@
 
 							}
  ],
-						"originid" : "pat-1018"
+						"originid" : "pat-472"
 					}
 ,
 					"patching_rect" : [ 50.5, 260.0, 84.0, 22.0 ],
@@ -550,7 +550,7 @@
 
 			}
  ],
-		"originid" : "pat-1016"
+		"originid" : "pat-470"
 	}
 
 }

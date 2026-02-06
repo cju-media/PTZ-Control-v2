@@ -1,0 +1,614 @@
+{
+  "macroPlayer": {
+    "isRunning": false,
+    "isWaiting": false,
+    "loop": false,
+    "macroIndex": 65535
+  },
+  "macroRecorder": {
+    "isRecording": false,
+    "macroIndex": 0
+  },
+  "macroProperties": [
+    {
+      "isUsed": true,
+      "hasUnsupportedOps": false,
+      "name": "PiP On",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": true,
+      "hasUnsupportedOps": false,
+      "name": "PiP Off",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    },
+    {
+      "isUsed": false,
+      "hasUnsupportedOps": false,
+      "name": "",
+      "description": ""
+    }
+  ]
+}
