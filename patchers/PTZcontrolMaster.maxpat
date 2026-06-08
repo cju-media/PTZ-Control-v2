@@ -9,10 +9,41 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 402.0, 161.0, 936.0, 586.0 ],
+        "rect": [ 402.0, 161.0, 1015.0, 586.0 ],
         "openinpresentation": 1,
         "title": "PTZ ATEM Control",
         "boxes": [
+            {
+                "box": {
+                    "id": "obj-419",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 1,
+                    "outlettype": [ "" ],
+                    "patching_rect": [ 2691.5, 932.0, 109.0, 22.0 ],
+                    "text": "if $f1 == 0 then $f1"
+                }
+            },
+            {
+                "box": {
+                    "id": "obj-272",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 2941.0, 941.0, 71.0, 22.0 ],
+                    "text": "s leftTrigger"
+                }
+            },
+            {
+                "box": {
+                    "id": "obj-270",
+                    "maxclass": "newobj",
+                    "numinlets": 1,
+                    "numoutlets": 0,
+                    "patching_rect": [ 2818.0, 941.0, 79.0, 22.0 ],
+                    "text": "s rightTrigger"
+                }
+            },
             {
                 "box": {
                     "id": "obj-469",
@@ -154,26 +185,6 @@
                     "patching_rect": [ 2767.0, 596.0, 16.0, 138.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 868.1319105625153, 50.549453020095825, 16.0, 138.0 ]
-                }
-            },
-            {
-                "box": {
-                    "id": "obj-720",
-                    "maxclass": "newobj",
-                    "numinlets": 1,
-                    "numoutlets": 0,
-                    "patching_rect": [ 2824.0, 952.0, 71.0, 22.0 ],
-                    "text": "s leftTrigger"
-                }
-            },
-            {
-                "box": {
-                    "id": "obj-721",
-                    "maxclass": "newobj",
-                    "numinlets": 1,
-                    "numoutlets": 0,
-                    "patching_rect": [ 2941.0, 941.0, 79.0, 22.0 ],
-                    "text": "s rightTrigger"
                 }
             },
             {
@@ -8533,8 +8544,6 @@
                     "saved_object_attributes": {
                         "autostart": 1,
                         "defer": 0,
-                        "node_bin_path": "",
-                        "npm_bin_path": "",
                         "watch": 1
                     },
                     "text": "node.script atem-client.js @autostart 1 @watch 1",
@@ -21818,13 +21827,13 @@
             {
                 "box": {
                     "id": "obj-418",
-                    "linecount": 2,
+                    "linecount": 3,
                     "maxclass": "message",
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 2443.0, 622.0, 42.0, 35.0 ],
-                    "text": "1710544.28"
+                    "patching_rect": [ 2443.0, 622.0, 42.0, 49.0 ],
+                    "text": "158408.422416"
                 }
             },
             {
@@ -29260,7 +29269,7 @@
             },
             {
                 "patchline": {
-                    "destination": [ "obj-720", 0 ],
+                    "destination": [ "obj-270", 0 ],
                     "source": [ "obj-395", 0 ]
                 }
             },
@@ -29427,6 +29436,20 @@
             },
             {
                 "patchline": {
+                    "destination": [ "obj-270", 0 ],
+                    "order": 1,
+                    "source": [ "obj-419", 0 ]
+                }
+            },
+            {
+                "patchline": {
+                    "destination": [ "obj-272", 0 ],
+                    "order": 0,
+                    "source": [ "obj-419", 0 ]
+                }
+            },
+            {
+                "patchline": {
                     "destination": [ "obj-44", 0 ],
                     "source": [ "obj-42", 0 ]
                 }
@@ -29571,7 +29594,7 @@
             },
             {
                 "patchline": {
-                    "destination": [ "obj-721", 0 ],
+                    "destination": [ "obj-272", 0 ],
                     "source": [ "obj-444", 0 ]
                 }
             },
@@ -29597,6 +29620,13 @@
                 "patchline": {
                     "destination": [ "obj-395", 0 ],
                     "order": 1,
+                    "source": [ "obj-448", 0 ]
+                }
+            },
+            {
+                "patchline": {
+                    "destination": [ "obj-419", 0 ],
+                    "order": 3,
                     "source": [ "obj-448", 0 ]
                 }
             },
