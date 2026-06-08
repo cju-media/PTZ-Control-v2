@@ -411,7 +411,7 @@
                         "rect": [ 476.0, 85.0, 892.0, 678.0 ],
                         "openinpresentation": 1,
                         "toolbars_unpinned_last_save": 15,
-                        "title": "Hue - CAM 4",
+                        "title": "Hue - CAM 1",
                         "boxes": [
                             {
                                 "box": {
@@ -3257,8 +3257,7 @@
                                                     "patching_rect": [ 583.0, 145.0, 100.0, 50.0 ],
                                                     "presentation": 1,
                                                     "presentation_rect": [ 37.0, 24.0, 100.0, 50.0 ],
-                                                    "tabmode": 0,
-                                                    "text": "sanc"
+                                                    "tabmode": 0
                                                 }
                                             },
                                             {
@@ -6916,7 +6915,7 @@
                     "patching_rect": [ 1881.0, 1349.0, 150.0, 20.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 517.0, 484.0, 150.0, 20.0 ],
-                    "text": "ATEM Connected"
+                    "text": "No ATEM Connected"
                 }
             },
             {
@@ -8377,7 +8376,7 @@
                     "presentation": 1,
                     "presentation_rect": [ 409.0, 527.75, 105.0, 19.5 ],
                     "tabmode": 0,
-                    "text": "192.168.112.11"
+                    "text": "192.168.112.13"
                 }
             },
             {
@@ -8878,7 +8877,7 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [ 88.0, 1464.0, 129.0, 20.0 ],
-                    "text": "Camera Connected"
+                    "text": "No Connection"
                 }
             },
             {
@@ -9147,7 +9146,7 @@
                         "rect": [ 210.0, 679.0, 220.0, 145.0 ],
                         "openinpresentation": 1,
                         "toolbars_unpinned_last_save": 15,
-                        "title": "WB - CAM 4",
+                        "title": "WB - CAM 1",
                         "boxes": [
                             {
                                 "box": {
@@ -11255,7 +11254,7 @@
                         "rect": [ 240.0, 767.0, 228.0, 215.0 ],
                         "openinpresentation": 1,
                         "toolbars_unpinned_last_save": 15,
-                        "title": "Exposure - CAM 4",
+                        "title": "Exposure - CAM 1",
                         "boxes": [
                             {
                                 "box": {
@@ -20940,7 +20939,7 @@
                     "numoutlets": 1,
                     "outlettype": [ "" ],
                     "patching_rect": [ 2443.0, 622.0, 42.0, 49.0 ],
-                    "text": "1611302.660959"
+                    "text": "17007.460458"
                 }
             },
             {
@@ -21568,7 +21567,7 @@
                     "numoutlets": 1,
                     "outlettype": [ "" ],
                     "patching_rect": [ 943.0, 1501.0, 85.0, 35.0 ],
-                    "text": "192.168.112.11"
+                    "text": "192.168.112.13"
                 }
             },
             {
@@ -24043,7 +24042,7 @@
                     "presentation": 1,
                     "presentation_rect": [ 452.7437985, 363.7437985, 48.0, 22.0 ],
                     "text": "CAM4",
-                    "textcolor": [ 0.9375, 0.395508, 0.0, 1.0 ]
+                    "textcolor": [ 1.0, 1.0, 1.0, 1.0 ]
                 }
             },
             {
@@ -24300,7 +24299,7 @@
                     "presentation": 1,
                     "presentation_rect": [ 380.0, 364.0, 48.0, 22.0 ],
                     "text": "CAM1",
-                    "textcolor": [ 1.0, 1.0, 1.0, 1.0 ]
+                    "textcolor": [ 0.9375, 0.395508, 0.0, 1.0 ]
                 }
             },
             {
